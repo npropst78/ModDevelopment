@@ -1,0 +1,22 @@
+[
+{
+"modid": "Technomancy",
+"name": "Technomancy",
+"description": "TEST, TEST, This is only a TEST!",
+"version": "0.1",
+"credits": "Created by BigNick, thanks to Pahimar for helping me get started with modding",
+"logoFile": "",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authors": [
+    "BigNick"
+],
+"parent":"",
+"requiredMods": [],
+"dependencies": [],
+"dependants": [],
+"screenshots": [],
+"useDependencyInformation": false
+}
+]
